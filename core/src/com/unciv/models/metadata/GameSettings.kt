@@ -242,7 +242,7 @@ class GameSettings {
         Tiny(750f,500f),
         Small(900f,600f),
         Medium(1050f,700f),
-        Large(1200f,800f),
+        Large(1280f,800f),
         Huge(1500f,1000f)
     }
 
