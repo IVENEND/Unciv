@@ -243,7 +243,7 @@ class GameSettings {
         Small(900f,600f),
         Medium(1050f,700f),
         Large(1280f,800f),
-        Huge(1500f,1000f)
+        Huge(1600f,900f)
     }
 
     enum class NationPickerListMode { Icons, List }
